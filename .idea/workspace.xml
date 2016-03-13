@@ -26,10 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b14aba4f-531c-4c3e-9924-7c2dbde811d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/events_and_timers/event_emitters_base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/events_and_timers/event_emitters_inheriting.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/events_and_timers/event_emitters_inspecting.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events_and_timers/event_emitters_inheriting.js" afterPath="$PROJECT_DIR$/events_and_timers/event_emitters_inheriting.js" />
     </list>
     <ignored path="node-programming-model.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -134,7 +131,7 @@
         <entry file="file://$PROJECT_DIR$/events_and_timers/event_emitters_inspecting.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="5" selection-end-column="4" />
+              <caret line="15" column="45" selection-start-line="3" selection-start-column="0" selection-end-line="15" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -143,8 +140,8 @@
       <file leaf-file-name="event_emitters_inheriting.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/events_and_timers/event_emitters_inheriting.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48214287">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.76339287">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -188,6 +185,7 @@
         <option value="$PROJECT_DIR$/async_chapter/async_queue.js" />
         <option value="$PROJECT_DIR$/events_and_timers/event_emitters_base.js" />
         <option value="$PROJECT_DIR$/events_and_timers/event_emitters_inspecting.js" />
+        <option value="$PROJECT_DIR$/events_and_timers/event_emitters_inheriting.js" />
       </list>
     </option>
   </component>
@@ -315,10 +313,7 @@
       <recent name="C:\Users\rescas\Documents\GitHub\node-programming-model\async_chapter" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.event_emitters_inspecting.js">
-    <configuration default="false" name="async_parallelism_base.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="async_parallelism_base.js" working-dir="$PROJECT_DIR$/async_chapter">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.event_emitters_inheriting.js">
     <configuration default="false" name="async_parallelism_limit.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="async_parallelism_limit.js" working-dir="$PROJECT_DIR$/async_chapter">
       <method />
     </configuration>
@@ -329,6 +324,9 @@
       <method />
     </configuration>
     <configuration default="false" name="event_emitters_inspecting.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="event_emitters_inspecting.js" working-dir="$PROJECT_DIR$/events_and_timers">
+      <method />
+    </configuration>
+    <configuration default="false" name="event_emitters_inheriting.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="C:/Program Files (x86)/nodejs/node" path-to-js-file="event_emitters_inheriting.js" working-dir="$PROJECT_DIR$/events_and_timers">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -376,19 +374,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Run Node" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.async_parallelism_base.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.async_parallelism_limit.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.async_waterfall_model.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.event_emitters_base.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.event_emitters_inspecting.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.async_parallelism_limit.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.async_waterfall_model.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.event_emitters_base.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.event_emitters_inspecting.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.event_emitters_inheriting.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.event_emitters_inspecting.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.event_emitters_base.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.async_waterfall_model.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.async_parallelism_limit.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.async_parallelism_base.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.event_emitters_inheriting.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.event_emitters_inspecting.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.event_emitters_base.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.async_waterfall_model.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.async_parallelism_limit.js" />
       </list>
     </recent_temporary>
   </component>
@@ -429,7 +427,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5025" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32863188" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32863188" sideWeight="0.4975" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -543,15 +541,15 @@
     <entry file="file://$PROJECT_DIR$/events_and_timers/event_emitters_inspecting.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="5" selection-end-column="4" />
+          <caret line="15" column="45" selection-start-line="3" selection-start-column="0" selection-end-line="15" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/events_and_timers/event_emitters_inheriting.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48214287">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.76339287">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
